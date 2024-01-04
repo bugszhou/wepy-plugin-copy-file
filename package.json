@@ -1,0 +1,23 @@
+{
+  "name": "wepy-plugin-copy-file",
+  "version": "1.0.0",
+  "description": "wepy plugin",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bugszhou/wepy-plugin-copy-file"
+  },
+  "homepage": "https://github.com/bugszhou/wepy-plugin-copy-file",
+  "dependencies": {
+    "@babel/generator": "^7.23.6",
+    "@babel/parser": "^7.23.6",
+    "@babel/traverse": "^7.23.7",
+    "fs-extra": "^11.2.0",
+    "normalize-path": "^3.0.0"
+  }
+}
