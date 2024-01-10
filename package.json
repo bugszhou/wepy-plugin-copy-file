@@ -1,6 +1,6 @@
 {
   "name": "wepy-plugin-copy-file",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "wepy plugin",
   "main": "lib/index.js",
   "scripts": {
